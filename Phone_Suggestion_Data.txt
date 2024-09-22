@@ -1,0 +1,241 @@
+# Sample Phone Suggestion Data
+
+# User_Preference: Photography
+Suggested_Phone: Google Pixel 7
+Features: 50 MP main camera, excellent low-light performance, advanced computational photography
+Price_Range: High-end
+
+# User_Preference: Gaming
+Suggested_Phone: ASUS ROG Phone 6
+Features: 165 Hz display, powerful Snapdragon 8+ Gen 1, enhanced cooling system
+Price_Range: High-end
+
+# User_Preference: Budget
+Suggested_Phone: Xiaomi Redmi Note 11
+Features: 50 MP camera, decent performance, affordable price
+Price_Range: Budget
+
+# User_Preference: Business
+Suggested_Phone: Samsung Galaxy Note 20 Ultra
+Features: S Pen for productivity, secure Knox platform, excellent multitasking
+Price_Range: High-end
+
+# User_Preference: Media Consumption
+Suggested_Phone: OnePlus 10 Pro
+Features: 6.7-inch AMOLED display, Dolby Atmos, high refresh rate
+Price_Range: High-end
+
+# User_Preference: Compact Size
+Suggested_Phone: iPhone 13 Mini
+Features: 5.4-inch display, lightweight design, powerful A15 Bionic chip
+Price_Range: Mid-range
+
+# User_Preference: Battery Life
+Suggested_Phone: Moto G Power (2022)
+Features: 5000 mAh battery, efficient performance, fast charging
+Price_Range: Budget
+
+# User_Preference: Customization
+Suggested_Phone: OnePlus Nord 2
+Features: OxygenOS, extensive customization options, good performance
+Price_Range: Mid-range
+
+# User_Preference: Latest Technology
+Suggested_Phone: Samsung Galaxy S23 Ultra
+Features: 200 MP camera, advanced AI features, 5G support
+Price_Range: High-end
+
+# User_Preference: Security
+Suggested_Phone: Google Pixel 7a
+Features: Titan M2 security chip, regular updates, privacy features
+Price_Range: Mid-range
+
+# User_Preference: Durability
+Suggested_Phone: CAT Phones CAT S62 Pro
+Features: Rugged design, water and dust resistant, thermal imaging
+Price_Range: High-end
+
+# User_Preference: Eco-Friendly
+Suggested_Phone: Fairphone 4
+Features: Fairtrade materials, modular design, repairable
+Price_Range: Mid-range
+
+# User_Preference: Photography
+Suggested_Phone: iPhone 14 Pro
+Features: ProRAW and ProRes video, excellent HDR capabilities, multiple lenses
+Price_Range: High-end
+
+# User_Preference: Gaming
+Suggested_Phone: Nubia RedMagic 7
+Features: 120 Hz display, gaming triggers, powerful GPU
+Price_Range: High-end
+
+# User_Preference: Budget
+Suggested_Phone: Realme 9i
+Features: Good camera, long battery life, affordable
+Price_Range: Budget
+
+# User_Preference: Business
+Suggested_Phone: Microsoft Surface Duo 2
+Features: Dual-screen for multitasking, Microsoft Office integration, productivity features
+Price_Range: High-end
+
+# User_Preference: Media Consumption
+Suggested_Phone: Sony Xperia 1 IV
+Features: 4K HDR OLED display, high-fidelity audio, cinema-quality video recording
+Price_Range: High-end
+
+# User_Preference: Compact Size
+Suggested_Phone: Samsung Galaxy Z Flip 4
+Features: Foldable design, compact form factor, high-end specs
+Price_Range: High-end
+
+# User_Preference: Battery Life
+Suggested_Phone: Samsung Galaxy M32
+Features: 6000 mAh battery, fast charging, reliable performance
+Price_Range: Budget
+
+# User_Preference: Customization
+Suggested_Phone: Samsung Galaxy A54
+Features: One UI customization, good performance, extensive app support
+Price_Range: Mid-range
+
+# User_Preference: Latest Technology
+Suggested_Phone: Apple iPhone 15 Pro Max
+Features: A17 Pro chip, advanced camera features, USB-C support
+Price_Range: High-end
+
+# User_Preference: Security
+Suggested_Phone: OnePlus 11
+Features: OxygenOS with privacy features, secure boot, regular updates
+Price_Range: Mid-range
+
+# User_Preference: Durability
+Suggested_Phone: Samsung Galaxy XCover 6 Pro
+Features: Rugged design, MIL-STD-810H certification, water-resistant
+Price_Range: Mid-range
+
+# User_Preference: Eco-Friendly
+Suggested_Phone: Apple iPhone 14
+Features: Carbon-neutral manufacturing, recyclable materials, energy-efficient
+Price_Range: High-end
+
+# User_Preference: Photography
+Suggested_Phone: Huawei P50 Pro
+Features: Leica camera system, 50 MP main sensor, excellent zoom capabilities
+Price_Range: High-end
+
+# User_Preference: Gaming
+Suggested_Phone: Lenovo Legion Phone Duel 2
+Features: Dual cooling, customizable RGB lighting, advanced gaming features
+Price_Range: High-end
+
+# User_Preference: Budget
+Suggested_Phone: Nokia G20
+Features: Stock Android experience, reliable performance, budget-friendly
+Price_Range: Budget
+
+# User_Preference: Business
+Suggested_Phone: Lenovo ThinkPhone
+Features: Robust security features, productivity tools, business-oriented apps
+Price_Range: Mid-range
+
+# User_Preference: Media Consumption
+Suggested_Phone: LG V60 ThinQ
+Features: Dual-screen accessory, high-quality audio, great display
+Price_Range: Mid-range
+
+# User_Preference: Compact Size
+Suggested_Phone: Google Pixel 6a
+Features: 6.1-inch display, lightweight, excellent camera
+Price_Range: Mid-range
+
+# User_Preference: Battery Life
+Suggested_Phone: Samsung Galaxy F41
+Features: 6000 mAh battery, good performance, budget-friendly
+Price_Range: Budget
+
+# User_Preference: Customization
+Suggested_Phone: Sony Xperia 10 IV
+Features: Customizable UI, expandable storage, good performance
+Price_Range: Mid-range
+
+# User_Preference: Latest Technology
+Suggested_Phone: Xiaomi 13 Pro
+Features: Snapdragon 8 Gen 2, advanced camera features, high refresh rate display
+Price_Range: High-end
+
+# User_Preference: Security
+Suggested_Phone: Blackberry KEY2
+Features: Physical keyboard, enhanced security features, privacy-focused
+Price_Range: Mid-range
+
+# User_Preference: Durability
+Suggested_Phone: Samsung Galaxy S23
+Features: Gorilla Glass Victus, water resistance, robust build
+Price_Range: High-end
+
+# User_Preference: Eco-Friendly
+Suggested_Phone: Motorola Edge 30
+Features: Recyclable materials, energy-efficient, sustainable practices
+Price_Range: Mid-range
+
+# User_Preference: Photography
+Suggested_Phone: Oppo Find X5 Pro
+Features: Hasselblad camera system, excellent night mode, fast autofocus
+Price_Range: High-end
+
+# User_Preference: Gaming
+Suggested_Phone: Razer Phone 2
+Features: 120 Hz display, powerful audio, gaming-focused design
+Price_Range: High-end
+
+# User_Preference: Budget
+Suggested_Phone: Infinix Note 12
+Features: Good camera, large display, affordable price
+Price_Range: Budget
+
+# User_Preference: Business
+Suggested_Phone: Huawei Mate 40 Pro
+Features: Strong performance, productivity features, excellent camera
+Price_Range: High-end
+
+# User_Preference: Media Consumption
+Suggested_Phone: Vivo V21 5G
+Features: AMOLED display, dual stereo speakers, great for videos
+Price_Range: Mid-range
+
+# User_Preference: Compact Size
+Suggested_Phone: Sony Xperia Compact
+Features: Small form factor, powerful internals, easy to carry
+Price_Range: Mid-range
+
+# User_Preference: Battery Life
+Suggested_Phone: Realme Narzo 50A
+Features: 5000 mAh battery, good performance, budget-friendly
+Price_Range: Budget
+
+# User_Preference: Customization
+Suggested_Phone: Oppo Reno 8
+Features: ColorOS customization options, good performance, stylish design
+Price_Range: Mid-range
+
+# User_Preference: Latest Technology
+Suggested_Phone: Google Pixel Fold
+Features: Foldable design, advanced camera features, seamless integration with Google services
+Price_Range: High-end
+
+# User_Preference: Security
+Suggested_Phone: Asus Zenfone 9
+Features: Regular security updates, biometric security, robust privacy features
+Price_Range: Mid-range
+
+# User_Preference: Durability
+Suggested_Phone: Sonim XP8
+Features: Ultra-rugged design, built for tough environments, water and dust resistant
+Price_Range: High-end
+
+# User_Preference: Eco-Friendly
+Suggested_Phone: Nokia X30 5G
+Features: 100% recycled aluminum, eco-friendly packaging, carbon-neutral
+Price_Range: Mid-range

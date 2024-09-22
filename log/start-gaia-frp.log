@@ -1,0 +1,6 @@
+[1;34m2024-09-22 21:31:34.844 [I] [sub/root.go:142] start frpc service for config file [/home/vansh/gaianet/gaia-frp/frpc.toml]
+[0m[1;34m2024-09-22 21:31:34.845 [I] [client/service.go:294] try to connect to server...
+[0m[1;34m2024-09-22 21:31:35.745 [I] [client/service.go:286] [f3cf1516c7daebae] login to server success, get run id [f3cf1516c7daebae]
+[0m[1;34m2024-09-22 21:31:35.745 [I] [proxy/proxy_manager.go:173] [f3cf1516c7daebae] proxy added: [0xa80aa99e0c3769c8b4f0185a194e3512a9ebf474.us.gaianet.network]
+[0m[1;34m2024-09-22 21:31:36.036 [I] [client/control.go:170] [f3cf1516c7daebae] [0xa80aa99e0c3769c8b4f0185a194e3512a9ebf474.us.gaianet.network] start proxy success
+[0m
