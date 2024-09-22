@@ -1,10 +1,10 @@
 # Phone_Suggestor
 
-**Phone_Suggestor** is a chatbot specifically designed to assist users with plant-related inquiries. By feeding data about various plants into a large language model (LLM), this chatbot provides insightful information and advice for plant care, identification, and maintenance.
+**Phone_Suggestor** is a chatbot specifically designed to assist users with phone suggestion-related inquiries. By feeding data about various phone suggestions into a large language model (LLM), this chatbot provides insightful information and advice for phone suggestion care, identification, and maintenance.
 
 ## Features
-- User-friendly interface for answering plant-related questions.
-- Comprehensive repository of plant-related information.
+- User-friendly interface for answering phone suggestion-related questions.
+- Comprehensive repository of phone suggestion-related information.
 - Personalized guidance and recommendations based on user inputs.
 
 ## Installation
@@ -33,4 +33,4 @@ To get started with **Phone_Suggestor**, follow these steps:
 ## How to Use
 
 1. Open your web browser and navigate to the generated link.
-2. Start interacting with the chatbot by typing your plant-related questions.
+2. Start interacting with the chatbot by typing your phone suggestion-related questions.
