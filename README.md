@@ -13,7 +13,7 @@ To get started with **Phone_Suggestor**, follow these steps:
 
 1. **Clone the repository:**
 
-    git clone https://github.com/code001001/GuideAI.git
+    git clone https://github.com/code001001/Phone_Suggestor.git
     cd GuideAI
 
 2. **Install the Gaia Node:**
